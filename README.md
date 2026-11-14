@@ -8,13 +8,13 @@
 - **Database-connected solutions** that pull, clean, and analyze data
 
 ## Tech Stack
-- |   **Area**    |       **Tools**
-- |---------------|-----------------------
-- |-Languages     | Python, JavaScript, HTML, SQL
-- |-Data analysis | Pandas
-- |-Visualisation | Matplotlib
-- |-Web & APIs    | JavaScript, HTML
-- |-Databases     | SQL
+| Area | Tools |
+|---|---|
+| Languages | Python, JavaScript, HTML, SQL |
+| Data analysis | Pandas |
+| Visualisation | Matplotlib |
+| Web & APIs | JavaScript, HTML |
+| Databases | SQL |
 
 
 ## Key projects
